@@ -1,5 +1,4 @@
-FROM rustlang/rust:nightly-slim
-RUN cargo install cargo-fuzz
+FROM fuzzers/cargo-fuzz:0.10.0
 
 WORKDIR  /work
 ADD . .
