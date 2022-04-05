@@ -7,4 +7,4 @@ RUN cargo fuzz build
 
 # Set to fuzz!
 ENTRYPOINT []
-CMD ["/workdir/fuzz/target/x86_64-unknown-linux-gnu/release/svg"]
+CMD ["/work/fuzz/target/x86_64-unknown-linux-gnu/release/svg"]
