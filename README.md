@@ -1,6 +1,7 @@
  # Badge-Maker
 [![Crates.io][crates-badge]][crates-url]
 [![MIT licensed][mit-badge]][mit-url]
+![Mayhem for Code](https://mayhem.forallsecure.com/api/v2/namespace/makesoftwaresafe/project/badge-maker/badge.svg)
 
 [crates-badge]: https://img.shields.io/crates/v/badge-maker.svg
 [crates-url]: https://crates.io/crates/badge-maker
