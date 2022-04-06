@@ -19,5 +19,5 @@ jobs:
         uses: ethan42/merge-upstream@v4
         with:
           upstream: abuakbar/golang-simple  # set the upstream repo manually
-          upstream-branch: mast             # set the upstream branch to merge from
+          upstream-branch: master           # set the upstream branch to merge from
           branch: master                    # set the branch to merge to
